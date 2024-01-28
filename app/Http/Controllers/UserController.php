@@ -23,9 +23,14 @@ class UserController extends Controller
      */
     public function create()
     {
-        //
-    }
 
+    }
+    
+    /**
+     * 
+     * Method to check whether use exist or not
+     */
+ 
     /**
      * Store a newly created resource in storage.
      *

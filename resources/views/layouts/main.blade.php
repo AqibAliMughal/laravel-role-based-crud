@@ -1,10 +1,10 @@
 @include('layouts.header')
+
+
 @include('layouts.navbar')
-<h4>DEFAULT CONTENT</h4>
 
+
+<br/>
 @yield('page-content')
-
-
-
-
+<br/>
 @include('layouts.footer')
